@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ROI.plugin.lpsolve"]
 	path = ROI.plugin.lpsolve
 	url = https://github.com/roigrp/roi.plugin.lpsolve
-	shallow = true
-	registered = true
