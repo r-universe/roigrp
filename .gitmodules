@@ -1,5 +1,46 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "ROI.format.cbf"]
+	path = ROI.format.cbf
+	url = https://gitlab.com/roigrp/tools/roi.format.cbf
+[submodule "ROI.plugin.alabama"]
+	path = ROI.plugin.alabama
+	url = https://gitlab.com/roigrp/solver/roi.plugin.alabama
+[submodule "ROI.plugin.clarabel"]
+	path = ROI.plugin.clarabel
+	url = https://gitlab.com/roigrp/solver/roi.plugin.clarabel
+[submodule "ROI.plugin.deoptim"]
+	path = ROI.plugin.deoptim
+	url = https://gitlab.com/roigrp/solver/roi.plugin.deoptim
+[submodule "ROI.plugin.ecos"]
+	path = ROI.plugin.ecos
+	url = https://gitlab.com/roigrp/solver/roi.plugin.ecos
+[submodule "ROI.plugin.lpsolve"]
+	path = ROI.plugin.lpsolve
+	url = https://gitlab.com/roigrp/solver/roi.plugin.lpsolve
+[submodule "ROI.plugin.msbinlp"]
+	path = ROI.plugin.msbinlp
+	url = https://gitlab.com/roigrp/solver/roi.plugin.msbinlp
+[submodule "ROI.plugin.neos"]
+	path = ROI.plugin.neos
+	url = https://gitlab.com/roigrp/solver/roi.plugin.neos
+[submodule "ROI.plugin.nloptr"]
+	path = ROI.plugin.nloptr
+	url = https://gitlab.com/roigrp/solver/roi.plugin.nloptr
+[submodule "ROI.plugin.optimx"]
+	path = ROI.plugin.optimx
+	url = https://gitlab.com/roigrp/solver/roi.plugin.optimx
+[submodule "ROI.plugin.osqp"]
+	path = ROI.plugin.osqp
+	url = https://gitlab.com/roigrp/solver/roi.plugin.osqp
+[submodule "ROI.plugin.qpoases"]
+	path = ROI.plugin.qpoases
+	url = https://gitlab.com/roigrp/solver/roi.plugin.qpoases
+[submodule "ROI.plugin.scs"]
+	path = ROI.plugin.scs
+	url = https://gitlab.com/roigrp/solver/roi.plugin.scs
+[submodule "highs"]
+	path = highs
+	url = https://gitlab.com/roigrp/solver/highs
